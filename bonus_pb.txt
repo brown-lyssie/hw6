@@ -1,0 +1,5 @@
+Table numbers (i)   | 1 | 2 | 3 | 4 | 5 | 
+Locations (x_i)     | 8 | 10 | 15 | 22 | 26 | 
+Bonuses (b_i)       | 15 | 5 | 25 | 15 | 5 | 
+Optimal bonus (m_i) | 15 | 15 | 40 | 55 | 55 | 
+Optimal bonus overall: 55
